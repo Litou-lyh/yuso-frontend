@@ -1,4 +1,4 @@
-# yuso
+# yuso-frontend
 
 ## Project setup
 ```
